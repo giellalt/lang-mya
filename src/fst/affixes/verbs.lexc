@@ -1,16 +1,17 @@
 !! Verb inflection
 !  ---------------
-!! The Burmese language verbs inflect in persons.
+!! The Burmese language verbs inflect.
 
-LEXICON Persons
-+V+1sg:en   #   ;
-+V+2sg:et   #   ;
-+V+3sg:e    #   ;
-+V+1pl:ien  #   ;
-+V+2pl:iet  #   ;
-+V+3pl:iet  #   ;
-+V+inf:0    #   ;
-#:0   Nouns   ;
+! Lexicon containing POS tag only:
+LEXICON V
++V: V-suff ;
+
+! Lexicon containing inflectional suffixes and corresponding tags:
+LEXICON V-suff
++Realis+Nom:တာ   # ;
++Realis:တယ်  # ;
++Irrealis:မယ် # ;
++Irrealis+Nom:မှာ    # ;;
 
 ! vim: set ft=xfst-lexc:
 

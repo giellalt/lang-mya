@@ -3,6 +3,16 @@
 !! Verbs in the Burmese language are actions.
 
 LEXICON Verbs
-verb    Persons   ;
+ပြော V ;
+သွား V ;
+ဖတ် V ;
+ကြိုက် V ;
+စား V ;
+စီး V ;
+ဖက် V ;
+လုပ် V ;
+ချစ်  V ;
+ပေး  V ;
+ 
 
 ! vim: set ft=xfst-lexc:

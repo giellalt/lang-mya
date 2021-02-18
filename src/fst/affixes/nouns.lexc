@@ -3,13 +3,18 @@
 !! The Burmese language nouns inflect in cases.
 
 LEXICON Cases
- +N+Sg+nom:0   #     ;
- +N+Pl+nom:i   #     ;
- +N+Sg+loc:as  #     ;
- +N+Pl+loc:ias #     ;
- +N+Sg+acc:at  #     ;
- +N+Pl+acc:iat #     ;
-         #:0   Nouns ;
+! Lexicon containing POS tag only:
+LEXICON N
++N: N-suff ;
+
+! Lexicon containing inflectional suffixes and corresponding tags:
+LEXICON N-suff
++Pl+Sub: များက   # ;
++Sub: က  # ;
++Pl:မျာ  # ;
++Pl+Obj: မျာကို    # ;
++Obj: ကို   # ;
+;
 
 ! vim: set ft=xfst-lexc:
 

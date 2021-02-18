@@ -3,6 +3,15 @@
 !! Nouns in the Burmese language are things.
 
 LEXICON Nouns
-noun    Cases   ;
+ကျွဲ N ;
+တူ N ;
+အိမ် N ;
+စာအုပ် N ;
+ဖုန်း N ;
+သား N ;
+သွား N ;
+ကား N ;
+အိုး N ;
+ပန်းသီး N ;
 
 ! vim: set ft=xfst-lexc:
