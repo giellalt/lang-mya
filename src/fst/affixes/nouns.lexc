@@ -14,7 +14,6 @@ LEXICON N-suff
 +Pl:မျာ  # ;
 +Pl+Obj: မျာကို    # ;
 +Obj: ကို   # ;
-;
 
 ! vim: set ft=xfst-lexc:
 
