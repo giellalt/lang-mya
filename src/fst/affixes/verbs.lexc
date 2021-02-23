@@ -11,7 +11,7 @@ LEXICON V-suff
 +Realis+Nom:တာ   # ;
 +Realis:တယ်  # ;
 +Irrealis:မယ် # ;
-+Irrealis+Nom:မှာ    # ;;
++Irrealis+Nom:မှာ    # ;
 
 ! vim: set ft=xfst-lexc:
 
