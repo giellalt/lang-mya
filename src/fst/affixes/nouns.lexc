@@ -2,7 +2,6 @@
 !  ---------------
 !! The Burmese language nouns inflect in cases.
 
-LEXICON Cases
 ! Lexicon containing POS tag only:
 LEXICON N
 +N: N-suff ;
