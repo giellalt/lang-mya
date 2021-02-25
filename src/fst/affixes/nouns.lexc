@@ -4,6 +4,8 @@
 
 LEXICON Cases
 ! Lexicon containing POS tag only:
+# ;
+
 LEXICON N
 +N: N-suff ;
 
