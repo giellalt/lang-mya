@@ -3,6 +3,8 @@
 !! The Burmese language nouns inflect in cases.
 
 ! Lexicon containing POS tag only:
+# ;
+
 LEXICON N
 +N: N-suff ;
 
