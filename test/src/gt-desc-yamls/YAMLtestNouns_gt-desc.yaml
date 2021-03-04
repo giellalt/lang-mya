@@ -1,0 +1,19 @@
+
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+  Noun - စာအုပ် - ok : # -Book; a noun
+    စာအုပ်+N+Pl+Sub: စာအုပ်များက 
+    စာအုပ်+N+Sub: စာအုပ်က 
+    စာအုပ်+N+Pl: စာအုပ်များ 
+    စာအုပ်+N+Pl+Obj: စာအုပ်များကို
+    စာအုပ်+N+Obj: စာအုပ်ကို
+    
+

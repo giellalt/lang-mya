@@ -12,9 +12,8 @@ LEXICON N
 LEXICON N-suff
 +Pl+Sub: များက   # ;
 +Sub: က  # ;
-+Pl:မျာ  # ;
-+Pl+Obj: မျာကို    # ;
++Pl: များ  # ;
++Pl+Obj: များကို    # ;
 +Obj: ကို   # ;
 
 ! vim: set ft=xfst-lexc:
-

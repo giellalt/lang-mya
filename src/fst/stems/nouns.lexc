@@ -1,6 +1,6 @@
 !! Nouns
 !  -----
-!! Nouns in the Burmese language are things.
+
 
 LEXICON Nouns
 ကျွဲ N ;
@@ -13,5 +13,7 @@ LEXICON Nouns
 ကား N ;
 အိုး N ;
 ပန်းသီး N ;
+ရေ N ;
 
-! vim: set ft=xfst-lexc:
+! focus on morphology, divide continutation classes based on what affixes it can take
+!
