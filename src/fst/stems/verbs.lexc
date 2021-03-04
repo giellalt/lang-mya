@@ -16,3 +16,8 @@ LEXICON Verbs
  
 
 ! vim: set ft=xfst-lexc:
+!!€သွား-norm: verb
+!!€ သွားတာ:    သွား+V+Realis+Nom
+!!€ သွားတယ်:     သွား+V+Realis
+!!€ သွားမှာ:    သွား+V+Irrealis+Nom
+!!€ သွားမယ်:     သွား+V+Irrealis
