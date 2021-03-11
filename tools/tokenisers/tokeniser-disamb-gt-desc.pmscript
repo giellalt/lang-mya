@@ -32,7 +32,7 @@
 !! Pmatch documentation:
 !! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
 
-set need-separators off
+set need-separators on
 
 Define lexmorph @bin"analyser_relabelled-disamb-gt-desc.hfst" ;
 
