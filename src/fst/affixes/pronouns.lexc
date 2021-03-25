@@ -1,0 +1,9 @@
+# ;
+
+! Lexicon containing inflectional suffixes and corresponding tags:
+LEXICON Pro
++Pl+Sub: တို့က   # ;
++Pl: တို့ # ;
++Sub: က  # ;
++Pl+Obj: တို့ကို    # ;
++Obj: ကို   # ;
