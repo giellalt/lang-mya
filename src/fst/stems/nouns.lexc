@@ -15,40 +15,70 @@ LEXICON Nouns
 ရေ N "water";
 အသီး N "fruit";
 !kinship terms
-အဖေ 
-အမေ
-အစ်ကို !spell relax?????
-အစ်မ 
-ညီ
-မောင်
-ညီမ
-နှမ
-သား
-မောင်နှမ
+အဖေ N "father";
+အမေ N "mother";
+အစ်ကို N "older brother"; 
+အကို N "older brother"; !spell relax?????
+အစ်မ N "older sister";
+အမ N "older sister";
+ညီ N "younger brother of male";
+ညီလေး N "younger brother";
+မောင် N "younger brother of female or young boy prefix" ;
+ညီမ N "younger sister";
+နှမ N "man's younger sister"; !archaic
+မောင်နှမ N "siblings";
 သား N "son";
-သမီး
-မြေး
-တူ
-တူမ
-ဦးလေး
-ဦးကြီး
-ဘထွေး
-ဘကြီး
-အဒေါ် 
-ဒေါ်ကြီး
-ကြီးတော် 
-ကြီးကြီး
-အရီး
-အဘိုး
-အဘွား
-ဘေး 
-ဘေးမ 
-ယောက္ခမ
-ယောက္ခထီး
-ယောက်မ
-ယောက်ဖ
-ခဲအိုး
-ခယ်မ 
+သမီး N "daughter";
+မြေး N "grandchild";
+တူ N "nephew";
+တူမ N "niece";
+ဦးလေး N "uncle";
+ဦးကြီး N "uncle (mother's older brother)";
+ဘထွေး N "uncle (father's younger brother)";
+ဘကြီး N "uncle (father's older brother)";
+အဒေါ်  N "aunt";
+ဒေါ်ကြီး N "aunt (mother's older sister)";
+ကြီးတော်  N "aunt (mother's older sister)";
+ကြီးကြီး N "aunt (older than parents)";
+အရီး N "aunt (father's sister; wife of mother's elder brother)";
+အဘိုး N "grandfather";
+အဘွား N "grandmother";
+ဘေး  N "great grandfather";
+ဘေးမ  N "great grandmother";
+ယောက္ခမ N "mother or father in law";
+ယောက္ခထီး N "father in law";
+ယောက်မ N "sister in law";
+ယောက်ဖ N "brother in law";
+ခဲအိုး N "older brother in law: woman's older sister's husband, older brother of husband";
+ခယ်မ N "younger sister in law: man's younger brother's wife, wife's younger sister"; 
+မိထွေး  N "stepmother; mother's younger sister";
+ပထွေး N "stepfather";
+မယားငယ် N "mistress; minor wife";
+မယားကြီး N "official first wife";
+မုဆိုးဖို N "widower";
+မုဆိုးမ N "widow";
+တစ်ခုလပ် N "divorcee";
+အဖေတူမအေကွဲ N "half sibling (same father)";
+အမေတူဖအေကွဲ N "half sibling (same mother)";
+သားအမိ N "mother and child";
+သားအဖ N "father and child";
+လင်မယား N "husband and wife";
+စုံတွဲ N "couple";
+ညီအစ်ကို N "brothers";
+ညီအစ်မ N "sisters";
+မယားညီအစ်ကို N "men married to sisters";
+လင်ညီအစ်မ  N "women married to brothers";
+မိသားစု N "family";
+အမျိုးသား N "husband; man"; !common
+အမျိုးသမီး N "wife; woman"; !common
+ယောက်ျား N "husband"; !common
+မိန်းမ N "wife"; !common
+ခင်ပွန်း N "husband"; !polite
+ဇနီး N "wife"; !polite
+လင် N "husband"; !formal
+မယား N "wife"; !formal
+!cardinal numbers
+
 
 ! focus on morphology, divide continutation classes based on what affixes it can take
 !
