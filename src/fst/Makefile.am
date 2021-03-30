@@ -30,6 +30,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/nouns.lexc         \
 			 stems/verbs.lexc         \
 			 stems/pronouns.lexc      \
+			 stems/adverbs.lexc
 			 
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
