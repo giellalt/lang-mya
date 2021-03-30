@@ -159,6 +159,23 @@ LEXICON Nouns
 မီတာ N "meter";
 ကီလိုမီတာ N "kilometer";
 ကျပ် N "Myanmar kyat";
+!time
+နှစ် N "year";
+လ N "month/moon";
+အပတ် N "week";
+ပတ် N "week/a round";
+ရက် N "day";
+နာရီ N "hour; clock/watch";
+မိနစ် N "minute";
+စက္ကန့် N "second";
+မနက် N "morning";
+နေ့လယ် N "midday";
+မွန်းတည့် N "noon";
+မွန်းလွဲ N "afternoon";
+နေ့ခင်း N "afternoon";
+ညနေ N "evening";
+ည N "night";
+သန်းခေါင် N "midnight";
 
 
 ! focus on morphology, divide continutation classes based on what affixes it can take
