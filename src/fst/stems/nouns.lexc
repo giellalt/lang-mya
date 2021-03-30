@@ -78,6 +78,87 @@ LEXICON Nouns
 လင် N "husband"; !formal
 မယား N "wife"; !formal
 !cardinal numbers
+တစ် N "one"; !!!!what to do with numbers where စ် is dropped and creaky tone is added to ဆယ် to be ဆယ့် and to all the large numbers after ten as well.
+နှစ် N "two";
+သုံး N "three";
+လေး N "four";
+ငါး N "five";
+ခြောက် N "six";
+ခုနစ် N "seven";
+ရှစ် N "eight";
+ကိုး N "nine";
+သုည N "zero";
+ဆယ် N "ten";
+ရာ N "hundred";
+ထောင် N "thousand";
+သောင်း N "ten-thousand";
+သိန်း N "hundred-thousand";
+သန်း N "million";
+!ordinal numbers borrowed from Pali (as opposed to grammatical #+Classifier+မြောက် 
+ပထမ N "first";
+ဒုတိယ N "second";
+တတိယ N "third";
+စတုတ္ထ N "fourth";
+ပဥ္စမ N "fifth";
+ဆဌမ N "sixth";
+သတ္တမ N "seventh";
+အဌမ N "eighth";
+နဝမ N "ninth";
+ဒသမ N "tenth";
+!classifiers
+လုံး N "round things";
+ချောင်း N "long thin things, hair, rulers, lines, pencils, rivers on maps, roads";
+ချပ် N "flat things";
+ပြား N "flat things";
+ကား N "screen, movies, plays, paintings";
+ခု N "misc";
+ခွန်း N "spoken things";
+ခွေ N "coil, cassette tapes, CDs, video tapes, scotch tape, mosquito coil";
+စီး N "ride/vehicles";
+စင် N "shelf/level";
+စောင် N "documents/letters";
+ဆောင် N "buildings";
+ဆူ N "holy objects, pagodas, saints";
+ထည် N "clothing and things made from cloth";
+ထုပ် N "wrap";
+ပင် N "plants, trees";
+ပုဒ် N "songs, verses of poetry, prayer";
+ပွဲ N "dishes of food, performance, festivals";
+ပွင့် N "to be open; blooms, stars, grain of salt, snow flakes";
+ရွက် N "leaf";
+လက်  N "hand; umbrellas, firearms";
+လိပ် N "roll; cigarettes, spring roll, rolled mat";
+မြစ် N "river";
+သွယ် N "connection; a river seen as a connection";
+စု N "group";
+စုံ N "pair, set";
+ဖွဲ့ N "group or organization of people";
+ရံ N "pair";
+သင်း N "group or team";
+အုပ် N "group/mass; books, forests";
+မျိုး N "type/kind";
+ယောက် N "people";
+ကောင် N "animals/creatures";
+ခါ N "instance of time";
+ကြိမ် N "instance of time";
+ခေါက် N "times, repitions or rounds";
+!measure words
+ပိဿာ N "viss, 1.63 kilograms";
+ကျပ်သား N "a hundredth of a viss, 16.3 grams";
+ပေါင် N "a pound";
+ကီလို N "a kilogram";
+တင်း N "measure for grain, about 4 liters";
+ပြည် N "measure for grain, about .25 liters";
+ဂါလံ N "gallon";
+လီတာ N "liter";
+မိုင် N "mile";
+ဖာလုံ N "furlong";
+ကိုက် N "yard";
+ပေ N "foot";
+လက်မ N "inch";
+မီတာ N "meter";
+ကီလိုမီတာ N "kilometer";
+ကျပ် N "Myanmar kyat";
 
 
 ! focus on morphology, divide continutation classes based on what affixes it can take
