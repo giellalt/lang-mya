@@ -178,13 +178,22 @@ LEXICON Nouns
 သန်းခေါင် N "midnight";
 
 ခေတ် N "age";
-ဘက် 
-ပင်လယ် 
-မြို့ 
-ဘေး 
-အရှေ့ 
-ဖက် 
-နိုင်ငံတော် 
+ဘက် N "side";
+ပင်လယ် N "sea";
+မြို့ N "city";
+ဘေး N "side";
+အရှေ့ N "east";
+ဖက် N "side";
+နိုင်ငံတော် N "kingdom";
+
+!Proper Nouns
+
+ငမိုးရိပ် N "Nga Moe Yate";
+ရန်ကုန် N "Yangon";
+ပဲခူး N "Bago";
+အိန္ဒိယ N "India";
+ဥက္ကလာပ N "Okkalapa";
+သံလွင် N "Than Lwin";
 
 ! focus on morphology, divide continutation classes based on what affixes it can take
 !

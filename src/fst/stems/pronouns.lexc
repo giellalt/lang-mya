@@ -4,26 +4,26 @@
 
 LEXICON Pronouns !how do I get pronouns to continue on to nouns? should I just put them together? how do I then add all of this extra info I have here?
 ကျွန်တော်+Pro+1+Sg:ကျွန်တော် Pro "male slave";
-ကျွန်တော်+Pro+1+Sg+Use/-Spell:ကျနော် Pro ; "male slave"
-ကျွန်တော်+Pro+1+Fem+Sg+Use/-Spell:ကျွန်မ "female slave";
-ကျွန်တော်+Pro+1+Fem+Sg+Use/-Spell:ကျမ ;
-ကျွန်တော်+Pro+1+Formal:ကျွနုပ် ;
-ကျွန်တော်+Pro+1+Informal:ကျုပ် ;
-ကျွန်တော်+Pro+1+Intimate+Sg:ငါ  "I";
-ကျွန်တော်+Pro+1+ToMonk+Sg:တပည့်တော် "male disciple";
-ကျွန်တော်+Pro+1+Female+ToMonk:တပည့်တော်မ "female disciple";
+ကျွန်တော်+Pro+1+Sg+Use/-Spell:ကျနော် Pro  "male slave";
+ကျွန်တော်+Pro+1+Fem+Sg+Use/-Spell:ကျွန်မ Pro "female slave";
+ကျွန်တော်+Pro+1+Fem+Sg+Use/-Spell:ကျမ Pro ;
+ကျွန်တော်+Pro+1+Formal:ကျွနုပ် Pro ;
+ကျွန်တော်+Pro+1+Informal:ကျုပ် Pro ;
+ကျွန်တော်+Pro+1+Intimate+Sg:ငါ Pro "I";
+ကျွန်တော်+Pro+1+ToMonk+Sg:တပည့်တော် Pro "male disciple";
+ကျွန်တော်+Pro+1+Female+ToMonk:တပည့်တော်မ Pro "female disciple";
 
-မင်း+Pro+2+MaleSpeaker:ခင်ဗျား ;
-မင်း+Pro+2+FemaleSpeaker:ရှင် ;
-မင်း+Pro+2+Male:မင်း ;
-မင်း+Pro+2+Female:နင် ;
-မင်း+Pro+2+Formal:သင် ;
-မင်း+Pro+2+Formal:လူကြီးမင်း ;
-မင်း+Pro+2+Formal:ကိုယ်တော် ;
+မင်း+Pro+2+MaleSpeaker:ခင်ဗျား Pro ;
+မင်း+Pro+2+FemaleSpeaker:ရှင် Pro ;
+မင်း+Pro+2+Male:မင်း Pro ;
+မင်း+Pro+2+Female:နင် Pro ;
+မင်း+Pro+2+Formal:သင် Pro ;
+မင်း+Pro+2+Formal:လူကြီးမင်း Pro ;
+မင်း+Pro+2+Formal:ကိုယ်တော် Pro ;
 
-သူ+Pro+3:သူ ;
-သူ+Pro+3+Female:သူမ ;
-သူ+Pro+3+Derogatory:သင်း ;
+သူ+Pro+3:သူ Pro ;
+သူ+Pro+3+Female:သူမ Pro ;
+သူ+Pro+3+Derogatory:သင်း Pro ;
 
 
 

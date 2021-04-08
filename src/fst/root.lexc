@@ -6,6 +6,21 @@ Multichar_Symbols
 +LEFT
 +PUNCT
 +RIGHT
++1
++2
++3
++Derogatory
++Fem
++Female
++FemaleSpeaker
++Formal
++Informal
++Male
++MaleSpeaker
++Pro
++Sg
++Use/-Spell
+!!!TODO:   EDIT THESE TO BE SHORT
 ! Lexicon containing lexical stems:
 
 
@@ -15,3 +30,5 @@ LEXICON Root
 
 Nouns ;
 Verbs ;
+Pronouns ;
+Adverbs ;

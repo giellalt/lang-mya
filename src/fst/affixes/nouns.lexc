@@ -15,5 +15,5 @@ LEXICON N-suff
 +Pl: များ  # ;
 +Pl+Obj: များကို    # ;
 +Obj: ကို   # ;
-
+# ;
 ! vim: set ft=xfst-lexc:
