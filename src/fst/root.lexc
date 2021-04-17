@@ -1,6 +1,7 @@
 Multichar_Symbols
 +N +Pl +Sub +Obj +V +Realis +Nom +Irrealis 
 +%{မ%}
++%{အ%}
 +CLB
 +Err/Orth
 +LEFT
@@ -20,6 +21,7 @@ Multichar_Symbols
 +Pro
 +Sg
 +Use/-Spell
++Top
 !!!TODO:   EDIT THESE TO BE SHORT
 ! Lexicon containing lexical stems:
 
