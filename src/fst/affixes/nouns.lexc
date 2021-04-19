@@ -15,4 +15,4 @@ LEXICON N
 +Top: ဟာ  # ;
 # ;
 ! vim: set ft=xfst-lexc:
-LEXICON NNC
+! LEXICON NNC
