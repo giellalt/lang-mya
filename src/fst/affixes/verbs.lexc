@@ -3,11 +3,9 @@
 !! The Burmese language verbs inflect.
 
 ! Lexicon containing POS tag only:
-LEXICON V
-+V: V-suff ;
 
 ! Lexicon containing inflectional suffixes and corresponding tags:
-LEXICON V-suff
+LEXICON V
 +Realis+Nom:တာ   # ;
 +Realis:တယ်  # ;
 +Irrealis:မယ် # ;

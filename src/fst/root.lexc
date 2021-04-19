@@ -1,5 +1,12 @@
 Multichar_Symbols
-+N +Pl +Sub +Obj +V +Realis +Nom +Irrealis 
++N
++Pl
++Sub
++Obj
++V
++Realis
++Nom
++Irrealis 
 +%{မ%}
 +%{အ%}
 +CLB
