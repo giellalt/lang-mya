@@ -1,3 +1,4 @@
+* [functions-cg3-src.md](functions-cg3-src.md)
 * [nouns-stems-fst-src.md](nouns-stems-fst-src.md)
 * [adverbs-stems-fst-src.md](adverbs-stems-fst-src.md)
 * [verbs-stems-fst-src.md](verbs-stems-fst-src.md)
