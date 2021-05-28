@@ -604,33 +604,13 @@ These were the set types.
 
 
 
-Nouns
+Verb inflection
+The Burmese language verbs inflect.
 
 
 
-
-
-
-Adverbs
-
-
-Verbs
-Verbs in the Burmese language are actions.
-
-
-
-
-*verb examples:*
-* *သွားတာ:* `သွား+V+Realis+Nom`
-* *သွားတယ်:* `သွား+V+Realis`
-* *သွားမှာ:* `သွား+V+Irrealis+Nom`
-* *သွားမယ်:* `သွား+V+Irrealis`
-Pronouns
-
-
-
-
-
+Noun inflection
+The Burmese language nouns inflect in cases.
 
 
 =================================== !
@@ -657,29 +637,33 @@ The Burmese morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
-Noun inflection
-The Burmese language nouns inflect in cases.
-
-
-Verb inflection
-The Burmese language verbs inflect.
+Verbs
+Verbs in the Burmese language are actions.
 
 
 
 
+*verb examples:*
+* *သွားတာ:* `သွား+V+Realis+Nom`
+* *သွားတယ်:* `သွား+V+Realis`
+* *သွားမှာ:* `သွား+V+Irrealis+Nom`
+* *သွားမယ်:* `သွား+V+Irrealis`
+Pronouns
 
 
-We describe here how abbreviations are in Burmese are read out, e.g.
-for text-to-speech systems.
 
-For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+
+
+
+Adverbs
+
+
+Nouns
+
+
+
+
 
 
 
@@ -735,4 +719,20 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Burmese are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
