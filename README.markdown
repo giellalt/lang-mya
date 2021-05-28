@@ -3,13 +3,13 @@ The Burmese morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mya)](https://github.com/giellalt/lang-mya/issues)
 [![Build Status](https://github.com/giellalt/lang-mya/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mya/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-mya)](https://raw.githubusercontent.com/giellalt/lang-mya/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-mya)](https://raw.githubusercontent.com/giellalt/lang-mya/main/LICENSE)
 
 This repository contains finite state source files for the Burmese language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under GPLv3
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-mya/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-mya/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-mya.git/trunk lang-mya
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-mya/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-mya/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
