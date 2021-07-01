@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -604,16 +604,52 @@ These were the set types.
 
 
 
-Verb inflection
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mya/blob/main/../src/cg3/functions.cg3)</small>Noun inflection
+The Burmese language nouns inflect in cases.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/nouns.lexc)</small>Verb inflection
 The Burmese language verbs inflect.
 
 
 
-Noun inflection
-The Burmese language nouns inflect in cases.
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/verbs.lexc)</small>Pronouns
 
 
-=================================== !
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/pronouns.lexc)</small>Nouns
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/nouns.lexc)</small>Verbs
+Verbs in the Burmese language are actions.
+
+
+
+
+*verb examples:*
+* *သွားတာ:* `သွား+V+Realis+Nom`
+* *သွားတယ်:* `သွား+V+Realis`
+* *သွားမှာ:* `သွား+V+Irrealis+Nom`
+* *သွားမယ်:* `သွား+V+Irrealis`
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/verbs.lexc)</small>Adverbs
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/adverbs.lexc)</small>=================================== !
 The Burmese morphophonological/twolc rules file !
 =================================== !
 
@@ -637,36 +673,8 @@ The Burmese morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
-Verbs
-Verbs in the Burmese language are actions.
-
-
-
-
-*verb examples:*
-* *သွားတာ:* `သွား+V+Realis+Nom`
-* *သွားတယ်:* `သွား+V+Realis`
-* *သွားမှာ:* `သွား+V+Irrealis+Nom`
-* *သွားမယ်:* `သွား+V+Irrealis`
-Pronouns
-
-
-
-
-
-
-
-Adverbs
-
-
-Nouns
-
-
-
-
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/phonology.twolc)</small>
 
 
 
@@ -720,7 +728,8 @@ Nouns
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 
 We describe here how abbreviations are in Burmese are read out, e.g.
@@ -736,3 +745,5 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
