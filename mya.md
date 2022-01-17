@@ -605,7 +605,18 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mya/blob/main/../src/cg3/functions.cg3)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mya/blob/main/../src/cg3/functions.cg3)</small>Noun inflection
+The Burmese language nouns inflect in cases.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/nouns.lexc)</small>Verb inflection
+The Burmese language verbs inflect.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/verbs.lexc)</small>=================================== !
 The Burmese morphophonological/twolc rules file !
 =================================== !
 
@@ -638,11 +649,7 @@ The Burmese morphophonological/twolc rules file !
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/nouns.lexc)</small>Adverbs
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/adverbs.lexc)</small>Pronouns
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/nouns.lexc)</small>Pronouns
 
 
 
@@ -663,18 +670,11 @@ Verbs in the Burmese language are actions.
 * *သွားမှာ:* `သွား+V+Irrealis+Nom`
 * *သွားမယ်:* `သွား+V+Irrealis`
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/verbs.lexc)</small>Noun inflection
-The Burmese language nouns inflect in cases.
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/verbs.lexc)</small>Adverbs
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/nouns.lexc)</small>Verb inflection
-The Burmese language verbs inflect.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/adverbs.lexc)</small>
 
 
 We describe here how abbreviations are in Burmese are read out, e.g.
