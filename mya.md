@@ -605,18 +605,7 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mya/blob/main/../src/cg3/functions.cg3)</small>Noun inflection
-The Burmese language nouns inflect in cases.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/nouns.lexc)</small>Verb inflection
-The Burmese language verbs inflect.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/verbs.lexc)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mya/blob/main/../src/cg3/functions.cg3)</small>=================================== !
 The Burmese morphophonological/twolc rules file !
 =================================== !
 
@@ -641,7 +630,30 @@ The Burmese morphophonological/twolc rules file !
 
 * examples:*
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/phonology.twolc)</small>Nouns
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/phonology.twolc)</small>Verb inflection
+The Burmese language verbs inflect.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/verbs.lexc)</small>Noun inflection
+The Burmese language nouns inflect in cases.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/affixes/nouns.lexc)</small>Verbs
+Verbs in the Burmese language are actions.
+
+
+
+
+*verb examples:*
+* *သွားတာ:* `သွား+V+Realis+Nom`
+* *သွားတယ်:* `သွား+V+Realis`
+* *သွားမှာ:* `သွား+V+Irrealis+Nom`
+* *သွားမယ်:* `သွား+V+Irrealis`
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/verbs.lexc)</small>Nouns
 
 
 
@@ -658,19 +670,7 @@ The Burmese morphophonological/twolc rules file !
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/pronouns.lexc)</small>Verbs
-Verbs in the Burmese language are actions.
-
-
-
-
-*verb examples:*
-* *သွားတာ:* `သွား+V+Realis+Nom`
-* *သွားတယ်:* `သွား+V+Realis`
-* *သွားမှာ:* `သွား+V+Irrealis+Nom`
-* *သွားမယ်:* `သွား+V+Irrealis`
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/verbs.lexc)</small>Adverbs
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/pronouns.lexc)</small>Adverbs
 
 
 * * *
