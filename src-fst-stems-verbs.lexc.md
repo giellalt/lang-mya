@@ -1,13 +1,15 @@
 Verbs
 Verbs in the Burmese language are actions.
 
-
-
-
 *verb examples:*
 * *သွားတာ:* `သွား+V+Realis+Nom`
 * *သွားတယ်:* `သွား+V+Realis`
 * *သွားမှာ:* `သွား+V+Irrealis+Nom`
 * *သွားမယ်:* `သွား+V+Irrealis`
+
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-mya/blob/main/../src/fst/stems/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/stems/verbs.lexc)</small>
+
+---
+
