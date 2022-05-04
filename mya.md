@@ -195,13 +195,13 @@ The Burmese morphophonological/twolc rules file !
 * *primus%>s*
 * *primus00*
 
-* examples:*
+*  examples:*
 
-* examples:*
+*  examples:*
 
-* examples:*
+*  examples:*
 
-* examples:*
+*  examples:*
 
 * * *
 
@@ -236,7 +236,7 @@ Pronouns
 Verbs
 Verbs in the Burmese language are actions.
 
-*verb examples:*
+* verb examples:*
 * *သွားတာ:* `သွား+V+Realis+Nom`
 * *သွားတယ်:* `သွား+V+Realis`
 * *သွားမှာ:* `သွား+V+Irrealis+Nom`
