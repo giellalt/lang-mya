@@ -1,6 +1,10 @@
-# Burmese description 
+# Burmese language model documentation
 
-All documents in one file
+All doc-comment documentation in one large file.
+
+---
+
+# src-cg3-functions.cg3.md 
 
 
 
@@ -170,7 +174,14 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mya/blob/main/src/cg3/functions.cg3)</small>Noun inflection
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mya/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# src-fst-morphology-affixes-nouns.lexc.md 
+
+Noun inflection
 The Burmese language nouns inflect in cases.
 
 * * *
@@ -178,6 +189,8 @@ The Burmese language nouns inflect in cases.
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-verbs.lexc.md 
 
 Verb inflection
 The Burmese language verbs inflect.
@@ -187,6 +200,8 @@ The Burmese language verbs inflect.
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
+
+# src-fst-morphology-phonology.twolc.md 
 
 =================================== !
 The Burmese morphophonological/twolc rules file !
@@ -209,6 +224,8 @@ The Burmese morphophonological/twolc rules file !
 
 ---
 
+# src-fst-morphology-stems-adverbs.lexc.md 
+
 Adverbs
 
 * * *
@@ -216,6 +233,8 @@ Adverbs
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/adverbs.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/morphology/stems/adverbs.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-nouns.lexc.md 
 
 Nouns
 
@@ -225,6 +244,8 @@ Nouns
 
 ---
 
+# src-fst-morphology-stems-pronouns.lexc.md 
+
 Pronouns
 
 * * *
@@ -232,6 +253,8 @@ Pronouns
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/morphology/stems/pronouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-verbs.lexc.md 
 
 Verbs
 Verbs in the Burmese language are actions.
@@ -247,6 +270,8 @@ Verbs in the Burmese language are actions.
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
 
 ---
+
+# src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -415,6 +440,8 @@ retracted tongue root			_q
 
 ---
 
+# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+
 
 
 We describe here how abbreviations are in Burmese are read out, e.g.
@@ -435,6 +462,8 @@ For example:
 
 ---
 
+# src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
+
 
 
 % komma% :,      Root ;
@@ -448,6 +477,8 @@ For example:
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-mya/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
 
 # Tokeniser for mya
 
@@ -513,6 +544,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+
 # Grammar checker tokenisation for mya
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -576,6 +609,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+
 # TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -637,6 +672,3 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-mya/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
-
----
-
