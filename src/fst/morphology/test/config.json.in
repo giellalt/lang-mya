@@ -13,8 +13,6 @@
     "otherlexcs": [
         "@abs_srcdir@/../stems/pronouns.lexc",
         "@abs_srcdir@/../affixes/nouns.lexc",
-        "@abs_srcdir@/../affixes/prefixes.lexc",
-        "@abs_srcdir@/../affixes/symbols.lexc",
         "@abs_srcdir@/../affixes/verbs.lexc"
     ]
 }
